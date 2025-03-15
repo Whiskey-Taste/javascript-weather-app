@@ -19,7 +19,7 @@ A simple weather application that allows users to search for a city’s weather 
 🚀 Installation & Setup
 1.    Clone this repository:
     
-git clone https://github.com/your-username/javascript-weather-app.git
+git clone https://github.com/Whiskey-Taste/javascript-weather-app.git
 cd javascript-weather-app
 
 2.    Install dependencies (if required, e.g., SCSS compiler):
